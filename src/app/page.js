@@ -88,7 +88,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold text-white mb-6">Cat Memes</h2>
 
         <div className="overflow-hidden whitespace-nowrap mb-6">
-          <div className="marquee-left">
+          <div className="marquee">
             <img src="https://placekitten.com/200/200" alt="meme1" />
             <img src="https://placekitten.com/201/200" alt="meme2" />
             <img src="https://placekitten.com/202/200" alt="meme3" />
@@ -97,7 +97,7 @@ export default function Home() {
         </div>
 
         <div className="overflow-hidden whitespace-nowrap mb-6">
-          <div className="marquee-right">
+          <div className="marquee">
             <img src="https://placekitten.com/204/200" alt="meme5" />
             <img src="https://placekitten.com/205/200" alt="meme6" />
             <img src="https://placekitten.com/206/200" alt="meme7" />
@@ -106,7 +106,7 @@ export default function Home() {
         </div>
 
         <div className="overflow-hidden whitespace-nowrap">
-          <div className="marquee-left">
+          <div className="marquee">
             <img src="https://placekitten.com/208/200" alt="meme9" />
             <img src="https://placekitten.com/209/200" alt="meme10" />
             <img src="https://placekitten.com/210/200" alt="meme11" />
